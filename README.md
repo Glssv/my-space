@@ -22,11 +22,13 @@ Criar uma página simples, moderna e responsiva para centralizar meus links (Git
 ---
 
 ### 💻 Preview
-
-📸 **Veja o projeto em ação:**
+ **Veja o projeto em ação:**
 👉 [**My Links - Gracielle Souza**](https://glssv.github.io/my-space/)
 
-![Preview do projeto](img/preview.png)
+<div >
+  <img src="img/preview.png" width="300px">
+  
+</div>
 
 ---
 
